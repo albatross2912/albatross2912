@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Shrivastava</h1>
+<h3 align="center">Aspiring Full Stack Developer from India</h3>
 
-<!--
-**albatross2912/albatross2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning React.js and Full Stack Development
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech CSE Student (2022-2026)
+
+🏆 Employee of the Year - Startek
+
+🔭 Current Project:
+Stray Cattle Tracker
+
+📫 Reach me:
+shubhamshri200420@gmail.com
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/shubham-shrivastava-537b07249/)
+
+### Tech Stack
+
+Java | JavaScript | React | HTML | CSS | Firebase | MongoDB | Git | GitHub
