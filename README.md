@@ -77,8 +77,11 @@ Features:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albatross2912\&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=albatross2912)
 ---
 
 ## 🎯 Career Objective
 
 To build scalable software solutions, contribute to innovative development teams, and continuously improve my technical expertise in Full Stack Development and Software Engineering.
+
+![](https://komarev.com/ghpvc/?username=albatross2912&color=blue)
