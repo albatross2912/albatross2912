@@ -22,3 +22,10 @@ shubhamshri200420@gmail.com
 ### Tech Stack
 
 Java | JavaScript | React | HTML | CSS | Firebase | MongoDB | Git | GitHub
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albatross2912&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albatross2912&layout=compact)
