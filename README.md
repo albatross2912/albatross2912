@@ -28,7 +28,7 @@
 
 ### Languages
 
-Java • JavaScript • C • C++
+Java • JavaScript 
 
 ### Frontend
 
